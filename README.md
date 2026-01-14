@@ -1,3 +1,4 @@
+![Portada](Portada_Guia.png)
 # guia-diseno-juegos-mesa
 Guía práctica para el diseño de juegos de mesa orientada a evitar la desidia lúdica.
 # Guía para el Diseño de Juegos de Mesa
