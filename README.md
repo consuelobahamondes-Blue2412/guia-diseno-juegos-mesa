@@ -1,6 +1,8 @@
 # guia-diseno-juegos-mesa
 Guía práctica para el diseño de juegos de mesa orientada a evitar la desidia lúdica.
 # Guía para el Diseño de Juegos de Mesa
+ℹ️ Nota: GitHub puede no mostrar correctamente la vista previa del PDF.
+Para ver el contenido completo, descarga el archivo.
 
 Esta guía es una herramienta práctica orientada a diseñadores y diseñadoras de juegos de mesa,
 especialmente enfocada en prevenir la desidia lúdica durante la experiencia de juego.
