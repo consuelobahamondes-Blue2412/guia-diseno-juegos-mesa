@@ -13,6 +13,7 @@ el análisis de juegos existentes y la experiencia práctica de diseño.
 
 ## 📥 Descarga
 👉 [Descargar la guía en PDF](Guia_Diseno_Juegos_Mesa.pdf)
+ℹ️ Para ver correctamente la guía, descarga el PDF.
 
 ## 📌 Contenidos
 - Claridad de reglas
