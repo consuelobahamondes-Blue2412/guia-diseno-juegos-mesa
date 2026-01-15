@@ -23,4 +23,4 @@ el análisis de juegos existentes y la experiencia práctica de diseño.
 - Experiencia del jugador
 
 ## 📄 Licencia
-Este material es de acceso gratuito y puede ser compartido con fines educativos.
+Este material es de acceso gratuito y puede ser compartido con fines educativos. BY-NC-ND
